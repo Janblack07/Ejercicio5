@@ -1,0 +1,23 @@
+.card {
+    background-image: url(https://i0.wp.com/www.eclixxo.com/wp-content/uploads/2017/05/codigo-css-3.jpg?resize=800%2C333&ssl=1);
+    background-position: left bottom;
+    border-style: solid;
+    border-color: coral;
+    border-width: 2%;
+    padding: 2%;
+    background-size: cover;
+    object-fit: fill;
+}
+
+#titulo {
+    text-align: center;
+}
+
+#elemento1 {
+    color: red;
+}
+
+#elemento1o {
+    color: red;
+    font-size: 2rem;
+}
